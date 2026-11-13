@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently Student<br>Ask me about Python, Data Analytics<br>
+I'm currently Associate software engineer<br> Python <br>
 
 
 ## 🌐 Socials:
